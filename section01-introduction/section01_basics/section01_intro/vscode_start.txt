@@ -1,0 +1,27 @@
+To create C# projects in VSCode, we use the terminal.
+
+dotnet commands documentation:
+https://docs.microsoft.com/pt-br/dotnet/core/tools/dotnet
+
+
+====== Setup Project ======
+
+The command to create a new solution with its name:
+    dotnet new sln --name Project 
+
+The command to create a new console project with its name:
+    dotnet new console --name Project
+
+The command to add the project to the solution:
+    dotnet sln Project.sln add **/*.csproj
+
+
+====== .vscode ======
+
+We should open the PROJECT directory with code . and click to add the .vscode directory
+
+
+====== Running ======
+
+Run with the command in the terminal, inside the PROJECT folder
+    dotnet run

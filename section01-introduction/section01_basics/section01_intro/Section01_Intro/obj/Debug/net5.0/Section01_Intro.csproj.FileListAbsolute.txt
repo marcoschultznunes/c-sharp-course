@@ -1,0 +1,16 @@
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section01_intro/Section01_Intro/bin/Debug/net5.0/Section01_Intro
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section01_intro/Section01_Intro/bin/Debug/net5.0/Section01_Intro.deps.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section01_intro/Section01_Intro/bin/Debug/net5.0/Section01_Intro.runtimeconfig.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section01_intro/Section01_Intro/bin/Debug/net5.0/Section01_Intro.runtimeconfig.dev.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section01_intro/Section01_Intro/bin/Debug/net5.0/Section01_Intro.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section01_intro/Section01_Intro/bin/Debug/net5.0/ref/Section01_Intro.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section01_intro/Section01_Intro/bin/Debug/net5.0/Section01_Intro.pdb
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section01_intro/Section01_Intro/obj/Debug/net5.0/Section01_Intro.csprojAssemblyReference.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section01_intro/Section01_Intro/obj/Debug/net5.0/Section01_Intro.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section01_intro/Section01_Intro/obj/Debug/net5.0/Section01_Intro.AssemblyInfoInputs.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section01_intro/Section01_Intro/obj/Debug/net5.0/Section01_Intro.AssemblyInfo.cs
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section01_intro/Section01_Intro/obj/Debug/net5.0/Section01_Intro.csproj.CoreCompileInputs.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section01_intro/Section01_Intro/obj/Debug/net5.0/Section01_Intro.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section01_intro/Section01_Intro/obj/Debug/net5.0/ref/Section01_Intro.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section01_intro/Section01_Intro/obj/Debug/net5.0/Section01_Intro.pdb
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section01_intro/Section01_Intro/obj/Debug/net5.0/Section01_Intro.genruntimeconfig.cache

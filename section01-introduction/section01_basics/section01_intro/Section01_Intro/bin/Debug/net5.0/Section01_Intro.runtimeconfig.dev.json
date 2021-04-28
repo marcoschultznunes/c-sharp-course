@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/marcola/.dotnet/store/|arch|/|tfm|",
+      "/home/marcola/.nuget/packages"
+    ]
+  }
+}
