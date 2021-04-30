@@ -1,0 +1,16 @@
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section04_conditionals/Section04_Conditionals/bin/Debug/net5.0/Section04_Conditionals
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section04_conditionals/Section04_Conditionals/bin/Debug/net5.0/Section04_Conditionals.deps.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section04_conditionals/Section04_Conditionals/bin/Debug/net5.0/Section04_Conditionals.runtimeconfig.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section04_conditionals/Section04_Conditionals/bin/Debug/net5.0/Section04_Conditionals.runtimeconfig.dev.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section04_conditionals/Section04_Conditionals/bin/Debug/net5.0/Section04_Conditionals.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section04_conditionals/Section04_Conditionals/bin/Debug/net5.0/ref/Section04_Conditionals.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section04_conditionals/Section04_Conditionals/bin/Debug/net5.0/Section04_Conditionals.pdb
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section04_conditionals/Section04_Conditionals/obj/Debug/net5.0/Section04_Conditionals.csprojAssemblyReference.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section04_conditionals/Section04_Conditionals/obj/Debug/net5.0/Section04_Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section04_conditionals/Section04_Conditionals/obj/Debug/net5.0/Section04_Conditionals.AssemblyInfoInputs.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section04_conditionals/Section04_Conditionals/obj/Debug/net5.0/Section04_Conditionals.AssemblyInfo.cs
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section04_conditionals/Section04_Conditionals/obj/Debug/net5.0/Section04_Conditionals.csproj.CoreCompileInputs.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section04_conditionals/Section04_Conditionals/obj/Debug/net5.0/Section04_Conditionals.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section04_conditionals/Section04_Conditionals/obj/Debug/net5.0/ref/Section04_Conditionals.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section04_conditionals/Section04_Conditionals/obj/Debug/net5.0/Section04_Conditionals.pdb
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section04_conditionals/Section04_Conditionals/obj/Debug/net5.0/Section04_Conditionals.genruntimeconfig.cache
