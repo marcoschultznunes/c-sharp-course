@@ -9,3 +9,4 @@ You need to install .NET CORE
 
 .NET CORE:
 https://docs.microsoft.com/pt-br/dotnet/core/install/linux-ubuntu
+

@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section02_types/Section02_Types/Section02_Types.csproj": {}
+  },
+  "projects": {
+    "/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section02_types/Section02_Types/Section02_Types.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section02_types/Section02_Types/Section02_Types.csproj",
+        "projectName": "Section02_Types",
+        "projectPath": "/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section02_types/Section02_Types/Section02_Types.csproj",
+        "packagesPath": "/home/marcola/.nuget/packages/",
+        "outputPath": "/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section02_types/Section02_Types/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/marcola/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

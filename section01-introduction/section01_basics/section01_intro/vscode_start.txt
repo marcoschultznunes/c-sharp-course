@@ -3,6 +3,9 @@ To create C# projects in VSCode, we use the terminal.
 dotnet commands documentation:
 https://docs.microsoft.com/pt-br/dotnet/core/tools/dotnet
 
+This video really helped:
+https://www.youtube.com/watch?v=r5dtl9Uq9V0
+
 
 ====== Setup Project ======
 
