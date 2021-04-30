@@ -8,7 +8,7 @@ namespace Section02_Types
             C# is statically typed.
         */
         
-        private static void ExBreak(string title){
+        public static void ExBreak(string title){
             Console.Write("\n");
             Console.WriteLine("========== " + title + " ==========");
             Console.Write("\n");

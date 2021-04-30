@@ -1,0 +1,16 @@
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section03_operators/Section03_Operators/bin/Debug/net5.0/Section03_Operators
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section03_operators/Section03_Operators/bin/Debug/net5.0/Section03_Operators.deps.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section03_operators/Section03_Operators/bin/Debug/net5.0/Section03_Operators.runtimeconfig.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section03_operators/Section03_Operators/bin/Debug/net5.0/Section03_Operators.runtimeconfig.dev.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section03_operators/Section03_Operators/bin/Debug/net5.0/Section03_Operators.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section03_operators/Section03_Operators/bin/Debug/net5.0/ref/Section03_Operators.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section03_operators/Section03_Operators/bin/Debug/net5.0/Section03_Operators.pdb
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section03_operators/Section03_Operators/obj/Debug/net5.0/Section03_Operators.csprojAssemblyReference.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section03_operators/Section03_Operators/obj/Debug/net5.0/Section03_Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section03_operators/Section03_Operators/obj/Debug/net5.0/Section03_Operators.AssemblyInfoInputs.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section03_operators/Section03_Operators/obj/Debug/net5.0/Section03_Operators.AssemblyInfo.cs
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section03_operators/Section03_Operators/obj/Debug/net5.0/Section03_Operators.csproj.CoreCompileInputs.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section03_operators/Section03_Operators/obj/Debug/net5.0/Section03_Operators.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section03_operators/Section03_Operators/obj/Debug/net5.0/ref/Section03_Operators.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section03_operators/Section03_Operators/obj/Debug/net5.0/Section03_Operators.pdb
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section03_operators/Section03_Operators/obj/Debug/net5.0/Section03_Operators.genruntimeconfig.cache
