@@ -1,0 +1,16 @@
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section06_array/Section06_Array/bin/Debug/net5.0/Section06_Array
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section06_array/Section06_Array/bin/Debug/net5.0/Section06_Array.deps.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section06_array/Section06_Array/bin/Debug/net5.0/Section06_Array.runtimeconfig.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section06_array/Section06_Array/bin/Debug/net5.0/Section06_Array.runtimeconfig.dev.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section06_array/Section06_Array/bin/Debug/net5.0/Section06_Array.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section06_array/Section06_Array/bin/Debug/net5.0/ref/Section06_Array.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section06_array/Section06_Array/bin/Debug/net5.0/Section06_Array.pdb
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section06_array/Section06_Array/obj/Debug/net5.0/Section06_Array.csprojAssemblyReference.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section06_array/Section06_Array/obj/Debug/net5.0/Section06_Array.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section06_array/Section06_Array/obj/Debug/net5.0/Section06_Array.AssemblyInfoInputs.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section06_array/Section06_Array/obj/Debug/net5.0/Section06_Array.AssemblyInfo.cs
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section06_array/Section06_Array/obj/Debug/net5.0/Section06_Array.csproj.CoreCompileInputs.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section06_array/Section06_Array/obj/Debug/net5.0/Section06_Array.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section06_array/Section06_Array/obj/Debug/net5.0/ref/Section06_Array.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section06_array/Section06_Array/obj/Debug/net5.0/Section06_Array.pdb
+/home/marcola/Desktop/Code/C#/section01-introduction/section01_basics/section06_array/Section06_Array/obj/Debug/net5.0/Section06_Array.genruntimeconfig.cache
