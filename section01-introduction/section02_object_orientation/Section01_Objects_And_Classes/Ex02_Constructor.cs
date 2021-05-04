@@ -16,6 +16,14 @@ namespace Section01_Objects_And_Classes
             Age = age;
         }
 
+        /* 
+            A class can have multiple constructors, depending on which properties to
+            initialize. In this case, just the first name.
+        */
+        public Ex02_Constructor(string firstName){
+            FirstName = firstName;
+        }
+
         /* Methods */
         public static void Exercise(){
             Ex02_Constructor e1 = new Ex02_Constructor("John", "Cena", 44);
@@ -23,7 +31,6 @@ namespace Section01_Objects_And_Classes
             Console.WriteLine($"First name: {e1.FirstName}");
             Console.WriteLine($"Last name: {e1.LastName}");
             Console.WriteLine($"Age: {e1.Age}");
-
         }
     }
 }

@@ -1,0 +1,16 @@
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section02_Methods/bin/Debug/net5.0/Section02_Methods
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section02_Methods/bin/Debug/net5.0/Section02_Methods.deps.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section02_Methods/bin/Debug/net5.0/Section02_Methods.runtimeconfig.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section02_Methods/bin/Debug/net5.0/Section02_Methods.runtimeconfig.dev.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section02_Methods/bin/Debug/net5.0/Section02_Methods.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section02_Methods/bin/Debug/net5.0/ref/Section02_Methods.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section02_Methods/bin/Debug/net5.0/Section02_Methods.pdb
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section02_Methods/obj/Debug/net5.0/Section02_Methods.csprojAssemblyReference.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section02_Methods/obj/Debug/net5.0/Section02_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section02_Methods/obj/Debug/net5.0/Section02_Methods.AssemblyInfoInputs.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section02_Methods/obj/Debug/net5.0/Section02_Methods.AssemblyInfo.cs
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section02_Methods/obj/Debug/net5.0/Section02_Methods.csproj.CoreCompileInputs.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section02_Methods/obj/Debug/net5.0/Section02_Methods.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section02_Methods/obj/Debug/net5.0/ref/Section02_Methods.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section02_Methods/obj/Debug/net5.0/Section02_Methods.pdb
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section02_Methods/obj/Debug/net5.0/Section02_Methods.genruntimeconfig.cache
