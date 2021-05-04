@@ -1,0 +1,16 @@
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section01_Objects_And_Classes/bin/Debug/net5.0/Section01_Objects_And_Classes
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section01_Objects_And_Classes/bin/Debug/net5.0/Section01_Objects_And_Classes.deps.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section01_Objects_And_Classes/bin/Debug/net5.0/Section01_Objects_And_Classes.runtimeconfig.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section01_Objects_And_Classes/bin/Debug/net5.0/Section01_Objects_And_Classes.runtimeconfig.dev.json
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section01_Objects_And_Classes/bin/Debug/net5.0/Section01_Objects_And_Classes.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section01_Objects_And_Classes/bin/Debug/net5.0/ref/Section01_Objects_And_Classes.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section01_Objects_And_Classes/bin/Debug/net5.0/Section01_Objects_And_Classes.pdb
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section01_Objects_And_Classes/obj/Debug/net5.0/Section01_Objects_And_Classes.csprojAssemblyReference.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section01_Objects_And_Classes/obj/Debug/net5.0/Section01_Objects_And_Classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section01_Objects_And_Classes/obj/Debug/net5.0/Section01_Objects_And_Classes.AssemblyInfoInputs.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section01_Objects_And_Classes/obj/Debug/net5.0/Section01_Objects_And_Classes.AssemblyInfo.cs
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section01_Objects_And_Classes/obj/Debug/net5.0/Section01_Objects_And_Classes.csproj.CoreCompileInputs.cache
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section01_Objects_And_Classes/obj/Debug/net5.0/Section01_Objects_And_Classes.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section01_Objects_And_Classes/obj/Debug/net5.0/ref/Section01_Objects_And_Classes.dll
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section01_Objects_And_Classes/obj/Debug/net5.0/Section01_Objects_And_Classes.pdb
+/home/marcola/Desktop/Code/C#/section01-introduction/section02_object_orientation/Section01_Objects_And_Classes/obj/Debug/net5.0/Section01_Objects_And_Classes.genruntimeconfig.cache
