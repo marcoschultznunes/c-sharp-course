@@ -9,9 +9,7 @@ namespace Section02_Types
         */
         
         public static void ExBreak(string title){
-            Console.Write("\n");
-            Console.WriteLine("========== " + title + " ==========");
-            Console.Write("\n");
+            Console.WriteLine("\n========== " + title + " ==========\n");
         }
         static void Main(string[] args)
         {
